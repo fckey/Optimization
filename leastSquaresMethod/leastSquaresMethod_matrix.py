@@ -1,6 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
-
 m = int(input("input m "))
 n = int(input("input n"))
 # 假设真正的平面是
